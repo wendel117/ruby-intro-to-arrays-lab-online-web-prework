@@ -9,5 +9,5 @@ end
 
 def first_element(my_first_element)
   @taylor_swift[0]
-  @taylor_swift=my_first_element
+  @taylor_swift=my_first_element[0]
 end
